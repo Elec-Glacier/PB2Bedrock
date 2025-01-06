@@ -1,0 +1,12 @@
+{
+  "id": "pb2bedrock",
+  "version": "0.0.1",
+  "name": "PB2Bedrock",
+  "description": {
+    "en_us": "Let PrimeBackup work correctly in bedrock server",
+    "zh_cn": "让PrimeBackup正确的工作在BDS上"
+  },
+  "author": "Elec glacier",
+  "link":"https://github.com/Elec-Glacier/PB2Bedrock",
+  "dependencies": {}
+}
