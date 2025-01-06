@@ -8,5 +8,7 @@
   },
   "author": "Elec glacier",
   "link":"https://github.com/Elec-Glacier/PB2Bedrock",
-  "dependencies": {}
+  "dependencies": {
+    "prime_backup": "*"
+  }
 }
